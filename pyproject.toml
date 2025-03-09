@@ -10,6 +10,7 @@ dependencies = [
 
 [project.scripts]
 kickoff = "alideploy.main:kickoff"
+run_crewai = "alideploy.main:kickoff"
 plot = "alideploy.main:plot"
 
 [build-system]
